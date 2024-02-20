@@ -1,0 +1,8 @@
+query GetApplicantIndividualCompanyRelations {
+  applicantIndividualCompanyRelations {
+    data {
+      id
+      name
+    }
+  }
+}
